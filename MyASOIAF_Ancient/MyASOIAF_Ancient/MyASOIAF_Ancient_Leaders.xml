@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="LEADER_VALYRIAN_DRAGONLORD" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_DRAGONRIDERS" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_GRAZDAN_THE_GREAT" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_SLAVEMASTERS" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_NYMERIA" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_TEN_THOUSANDS_SHIPS" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_MAZOR_ALEXI" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_LAST_SARNORI_HIGH_KING" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_BRANDON_STARK" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_BRAN_THE_BUILDER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_LANN_CLEVER" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_CLEVER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_GARTH_GREENHAND" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_GREEN" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_DURRAN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_GODSGRIEF" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_GREY_KING" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_SEADRAGON_SLAYER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_ARTYS_ARRYN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_FALCON_KNIGHT" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_LEAF" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_LAST_CHILDREN_FOREST" Kind="KIND_TRAIT"/>
+	</Types>
+
+	<Leaders>
+		<Row LeaderType="LEADER_VALYRIAN_DRAGONLORD" Name="LOC_LEADER_VALYRIAN_DRAGONLORD_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_GRAZDAN_THE_GREAT" Name="LOC_LEADER_GRAZDAN_THE_GREAT_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_NYMERIA" Name="LOC_LEADER_NYMERIA_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_MAZOR_ALEXI" Name="LOC_LEADER_MAZOR_ALEXI_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_BRANDON_STARK" Name="LOC_LEADER_BRANDON_STARK_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_LANN_CLEVER" Name="LOC_LEADER_LANN_CLEVER_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_GARTH_GREENHAND" Name="LOC_LEADER_GARTH_GREENHAND_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_DURRAN" Name="LOC_LEADER_DURRAN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_GREY_KING" Name="LOC_LEADER_GREY_KING_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_ARTYS_ARRYN" Name="LOC_LEADER_ARTYS_ARRYN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_LEAF" Name="LOC_LEADER_LEAF_NAME" InheritFrom="LEADER_DEFAULT"/>
+
+	</Leaders>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_VALYRIAN_DRAGONLORD" ForegroundImage="LEADER_VALYRIAN_DRAGONLORD_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_GRAZDAN_THE_GREAT" ForegroundImage="LEADER_GRAZDAN_THE_GREAT_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_NYMERIA" ForegroundImage="LEADER_NYMERIA_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_MAZOR_ALEXI" ForegroundImage="LEADER_MAZOR_ALEXI_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_BRANDON_STARK" ForegroundImage="LEADER_BRANDON_STARK_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_LANN_CLEVER" ForegroundImage="LEADER_LANN_CLEVER_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_GARTH_GREENHAND" ForegroundImage="LEADER_GARTH_GREENHAND_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_DURRAN" ForegroundImage="LEADER_DURRAN_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_GREY_KING" ForegroundImage="LEADER_GREY_KING_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_ARTYS_ARRYN" ForegroundImage="LEADER_ARTYS_ARRYN_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+		<Row LeaderType="LEADER_LEAF" ForegroundImage="LEADER_LEAF_NEUTRAL" BackgroundImage="MYSOIAF_LOADING_BACKGROUND"/>
+
+	</LoadingInfo>
+
+	<DiplomacyInfo>
+		<Row Type="LEADER_VALYRIAN_DRAGONLORD" BackgroundImage="LEADER_VALYRIAN_DRAGONLORD_BACKGROUND"/>
+		<Row Type="LEADER_GRAZDAN_THE_GREAT" BackgroundImage="LEADER_GRAZDAN_THE_GREAT_BACKGROUND"/>
+		<Row Type="LEADER_NYMERIA" BackgroundImage="LEADER_NYMERIA_BACKGROUND"/>
+		<Row Type="LEADER_MAZOR_ALEXI" BackgroundImage="LEADER_MAZOR_ALEXI_BACKGROUND"/>
+		<Row Type="LEADER_BRANDON_STARK" BackgroundImage="LEADER_BRANDON_STARK_BACKGROUND"/>
+		<Row Type="LEADER_LANN_CLEVER" BackgroundImage="LEADER_LANN_CLEVER_BACKGROUND"/>
+		<Row Type="LEADER_GARTH_GREENHAND" BackgroundImage="LEADER_GARTH_GREENHAND_BACKGROUND"/>
+		<Row Type="LEADER_DURRAN" BackgroundImage="LEADER_DURRAN_BACKGROUND"/>
+		<Row Type="LEADER_GREY_KING" BackgroundImage="LEADER_GREY_KING_BACKGROUND"/>
+		<Row Type="LEADER_ARTYS_ARRYN" BackgroundImage="LEADER_ARTYS_ARRYN_BACKGROUND"/>
+		<Row Type="LEADER_LEAF" BackgroundImage="LEADER_LEAF_BACKGROUND"/>
+
+	</DiplomacyInfo>
+
+	<LeaderTraits>
+		<Row LeaderType="LEADER_VALYRIAN_DRAGONLORD" TraitType="TRAIT_LEADER_DRAGONRIDERS"/>
+		<Row LeaderType="LEADER_GRAZDAN_THE_GREAT" TraitType="TRAIT_LEADER_SLAVEMASTERS"/>
+		<Row LeaderType="LEADER_NYMERIA" TraitType="TRAIT_LEADER_TEN_THOUSANDS_SHIPS"/>
+		<Row LeaderType="LEADER_MAZOR_ALEXI" TraitType="TRAIT_LEADER_LAST_SARNORI_HIGH_KING"/>
+		<Row LeaderType="LEADER_BRANDON_STARK" TraitType="TRAIT_LEADER_BRAN_THE_BUILDER"/>
+		<Row LeaderType="LEADER_LANN_CLEVER" TraitType="TRAIT_LEADER_THE_CLEVER"/>
+		<Row LeaderType="LEADER_GARTH_GREENHAND" TraitType="TRAIT_LEADER_THE_GREEN"/>
+		<Row LeaderType="LEADER_DURRAN" TraitType="TRAIT_LEADER_GODSGRIEF"/>
+		<Row LeaderType="LEADER_GREY_KING" TraitType="TRAIT_LEADER_SEADRAGON_SLAYER"/>
+		<Row LeaderType="LEADER_ARTYS_ARRYN" TraitType="TRAIT_LEADER_FALCON_KNIGHT"/>
+		<Row LeaderType="LEADER_LEAF" TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST"/>
+
+	</LeaderTraits>
+
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_DRAGONRIDERS" Name="LOC_TRAIT_DRAGONRIDERS_NAME" Description="LOC_TRAIT_DRAGONRIDERS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SLAVEMASTERS" Name="LOC_TRAIT_SLAVEMASTERS_NAME" Description="LOC_TRAIT_SLAVEMASTERS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_TEN_THOUSANDS_SHIPS" Name="LOC_TRAIT_TEN_THOUSANDS_SHIPS_NAME" Description="LOC_TRAIT_TEN_THOUSANDS_SHIPS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_LAST_SARNORI_HIGH_KING" Name="LOC_TRAIT_LAST_SARNORI_HIGH_KING_NAME" Description="LOC_TRAIT_LAST_SARNORI_HIGH_KING_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_BRAN_THE_BUILDER" Name="LOC_TRAIT_BRAN_THE_BUILDER_NAME" Description="LOC_TRAIT_BRAN_THE_BUILDER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_CLEVER" Name="LOC_TRAIT_THE_CLEVER_NAME" Description="LOC_TRAIT_THE_CLEVER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_GREEN" Name="LOC_TRAIT_THE_GREEN_NAME" Description="LOC_TRAIT_THE_GREEN_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_GODSGRIEF" Name="LOC_TRAIT_GODSGRIEF_NAME" Description="LOC_TRAIT_GODSGRIEF_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SEADRAGON_SLAYER" Name="LOC_TRAIT_SEADRAGON_SLAYER_NAME" Description="LOC_TRAIT_SEADRAGON_SLAYER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_FALCON_KNIGHT" Name="LOC_TRAIT_FALCON_KNIGHT_NAME" Description="LOC_TRAIT_FALCON_KNIGHT_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" Name="LOC_TRAIT_LAST_CHILDREN_FOREST_NAME" Description="LOC_TRAIT_LAST_CHILDREN_FOREST_DESCRIPTION"/>
+
+	</Traits>
+
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LEADER_DRAGONRIDERS" ModifierId="TRAIT_MYSOIAF_COMBAT_BONUS_CONQUER_CONTINENT"/>
+		<Row>
+			<TraitType>TRAIT_LEADER_DRAGONRIDERS</TraitType>
+			<ModifierId>TRAIT_MYSOIAF_EXTRA_WILDCARD_GOVERNMENT_SLOT</ModifierId>
+			<!-- Implemented In Leaders-->
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_SLAVEMASTERS</TraitType>
+			<ModifierId>MYSOIAF_TRAIT_BUILDER_DISTRICT_PERCENT</ModifierId>
+		</Row>
+		<Row TraitType="TRAIT_LEADER_SLAVEMASTERS" ModifierId="TRAIT_ADJUST_BUILDER_CHARGES"/>
+		<!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_SLAVEMASTERS" ModifierId="TRAIT_BUILDER_WONDER_PERCENT"/>
+		<!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_TEN_THOUSANDS_SHIPS" ModifierId="TRAIT_MILITARY_GOVERNMENT_SLOT"/>
+		<!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_TEN_THOUSANDS_SHIPS" ModifierId="MYSOAIF_FOREIGNGROWTH"/>
+		<Row TraitType="TRAIT_LEADER_TEN_THOUSANDS_SHIPS" ModifierId="MYSOAIF_FOREIGNGOLD"/>
+		<Row>
+			<TraitType>TRAIT_LEADER_TEN_THOUSANDS_SHIPS</TraitType>
+			<ModifierId>TRAIT_EARLY_OCEAN_NAVIGATION</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row TraitType="TRAIT_LEADER_LAST_SARNORI_HIGH_KING" ModifierId="TRAIT_MYSOIAF_GARRISON_BONUS"/>
+		<Row>
+			<TraitType>TRAIT_LEADER_LAST_SARNORI_HIGH_KING</TraitType>
+			<ModifierId>TRAIT_GOLD_FROM_DOMESTIC_TRADING_POSTS</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row TraitType="TRAIT_LEADER_BRAN_THE_BUILDER" ModifierId="MYSOIAF_TRAIT_BUILDER_DISTRICT_PERCENT"/>
+		<Row TraitType="TRAIT_LEADER_BRAN_THE_BUILDER" ModifierId="TRAIT_ADJUST_BUILDER_CHARGES"/>
+		<Row TraitType="TRAIT_LEADER_BRAN_THE_BUILDER" ModifierId="TRAIT_BUILDER_WONDER_PERCENT"/>
+		<Row TraitType="TRAIT_LEADER_THE_CLEVER" ModifierId="TRAIT_MYSOIAF_EXTRA_WILDCARD_GOVERNMENT_SLOT"/>
+		<Row TraitType="TRAIT_LEADER_THE_GREEN" ModifierId="MYSOIAF_SPECIALTYHOUSING"/>
+		<Row TraitType="TRAIT_LEADER_THE_GREEN" ModifierId="MYSOIAF_CITYGROWTH"/>
+		<Row TraitType="TRAIT_LEADER_GODSGRIEF" ModifierId="HEAL_AFTER_DEFEATING_UNIT"/>
+		<Row TraitType="TRAIT_LEADER_GODSGRIEF" ModifierId="TRAIT_COMBAT_BONUS_LAND_ON_COAST"/>
+		<Row TraitType="TRAIT_LEADER_SEADRAGON_SLAYER" ModifierId="TRAIT_BOOST_ENCAMPMENT_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_SEADRAGON_SLAYER" ModifierId="TRAIT_BOOST_HOLY_SITE_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_SEADRAGON_SLAYER" ModifierId="MYSOIAF_HARBORGOLD"/>
+		<Row TraitType="TRAIT_LEADER_SEADRAGON_SLAYER" ModifierId="MYSOIAF_COMMERCIALGOLD"/>
+		<Row TraitType="TRAIT_LEADER_FALCON_KNIGHT" ModifierId="TRAIT_ADJUST_INQUISITOR_CHARGES"/>
+		<Row TraitType="TRAIT_LEADER_FALCON_KNIGHT" ModifierId="TRAIT_COMBAT_BONUS_OTHER_RELIGION"/>
+		<Row TraitType="TRAIT_LEADER_FALCON_KNIGHT" ModifierId="TRAIT_BARBARIAN_CAMP_GOODY"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLESHRINE"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLETEMPLE"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLECATHEDRAL"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLEDAREMEHR"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLEGURDWARA"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLEMEETINGHOUSE"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLEMOSQUE"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLEPAGODA"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLESTUPA"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLESYNAGOGUE"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="MYSOIAF_DOUBLEWAT"/>
+		<Row TraitType="TRAIT_LEADER_LAST_CHILDREN_FOREST" ModifierId="TRAIT_INCREASE_ENEMY_WAR_WEARINESS"/>
+
+	</TraitModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MYSOAIF_FOREIGNGROWTH</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_CITY_GROWTH</ModifierType>
+			<SubjectRequirementSetId>CITY_NOT_OWNER_CAPITAL_CONTINENT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSOAIF_FOREIGNGOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_CITY_YIELD_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>CITY_NOT_OWNER_CAPITAL_CONTINENT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSOIAF_GARRISON_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_GARRISON_BONUS_DISTRICTS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>GARRISON_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_SPECIALTYHOUSING</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_POLICY_HOUSING</ModifierType>
+			<SubjectRequirementSetId>CITY_HAS_2_SPECIALTY_DISTRICTS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_CITYGROWTH</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_CITY_GROWTH</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_HARBORGOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DISTRICTS_ADJUST_YIELD_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>DISTRICT_IS_HARBOR</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_COMMERCIALGOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DISTRICTS_ADJUST_YIELD_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>DISTRICT_IS_COMMERCIAL_HUB</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DISTRICTS_FAITH_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_DISTRICTS_ADJUST_YIELD_CHANGE</ModifierType>
+			<SubjectRequirementSetId>PLOT_IS_OR_ADJACENT_TO_COAST</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESHRINE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLETEMPLE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLECATHEDRAL</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEDAREMEHR</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEGURDWARA</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEMEETINGHOUSE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEMOSQUE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEPAGODA</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESTUPA</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESYNAGOGUE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEWAT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_TRAIT_BUILDER_DISTRICT_PERCENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_UNIT_DISTRICT_PERCENT</ModifierType>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MYSOAIF_FOREIGNGROWTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOAIF_FOREIGNGOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOAIF_FOREIGNGOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>15</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYSOIAF_GARRISON_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYSOIAF_GARRISON_BONUS_DISTRICTS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_GARRISON_BONUS_DISTRICTS</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_SPECIALTYHOUSING</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_CITYGROWTH</ModifierId>
+			<Name>Amount</Name>
+			<Value>35</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_HARBORGOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_HARBORGOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_COMMERCIALGOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_COMMERCIALGOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DISTRICTS_FAITH_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DISTRICTS_FAITH_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESHRINE</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_SHRINE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESHRINE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESHRINE</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLETEMPLE</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_TEMPLE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLETEMPLE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLETEMPLE</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLECATHEDRAL</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_CATHEDRAL</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLECATHEDRAL</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLECATHEDRAL</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEDAREMEHR</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_DAR_E_MEHR</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEDAREMEHR</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEDAREMEHR</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEGURDWARA</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_GURDWARA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEGURDWARA</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEGURDWARA</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEMEETINGHOUSE</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_MEETING_HOUSE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEMEETINGHOUSE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEMEETINGHOUSE</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEMOSQUE</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_MOSQUE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEMOSQUE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEMOSQUE</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEPAGODA</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_PAGODA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEPAGODA</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEPAGODA</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESTUPA</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_STUPA</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESTUPA</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESTUPA</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESYNAGOGUE</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_SYNAGOGUE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESYNAGOGUE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLESYNAGOGUE</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEWAT</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_WAT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEWAT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_DOUBLEWAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYSOIAF_TRAIT_BUILDER_DISTRICT_PERCENT</ModifierId>
+			<Name>Amount</Name>
+			<Value>20</Value>
+		</Row>
+	</ModifierArguments>
+
+	<ModifierStrings>
+		<Row ModifierId="MYSOIAF_GARRISON_BONUS_DISTRICTS" Context="Preview" Text="LOC_MYSOIAF_GARRISON_BONUS_DISTRICTS_DESCRIPTION"/>
+	</ModifierStrings>
+
+	<FavoredReligions>
+		<Row LeaderType="LEADER_GRAZDAN_THE_GREAT" ReligionType="RELIGION_THE_HARPY" />
+		<Row LeaderType="LEADER_NYMERIA" ReligionType="RELIGION_MOTHER_RHOYNE" />
+		<Row LeaderType="LEADER_BRANDON_STARK" ReligionType="RELIGION_MYSOIAF_OLD_GODS" />
+		<Row LeaderType="LEADER_LANN_CLEVER" ReligionType="RELIGION_MYSOIAF_OLD_GODS" />
+		<Row LeaderType="LEADER_GARTH_GREENHAND" ReligionType="RELIGION_MYSOIAF_OLD_GODS" />
+		<Row LeaderType="LEADER_DURRAN" ReligionType="RELIGION_MYSOIAF_OLD_GODS" />
+		<Row LeaderType="LEADER_GREY_KING" ReligionType="RELIGION_DROWNED_GOD" />
+		<Row LeaderType="LEADER_LEAF" ReligionType="RELIGION_MYSOIAF_OLD_GODS" />
+
+	</FavoredReligions>
+
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_VALYRIAN_DRAGONLORD" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_VALYRIAN_DRAGONLORD_QUOTE"/>
+		<Row LeaderType="LEADER_GRAZDAN_THE_GREAT" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_GRAZDAN_THE_GREAT_QUOTE"/>
+		<Row LeaderType="LEADER_NYMERIA" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_NYMERIA_QUOTE"/>
+		<Row LeaderType="LEADER_MAZOR_ALEXI" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_MAZOR_ALEXI_QUOTE"/>
+		<Row LeaderType="LEADER_BRANDON_STARK" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_BRANDON_STARK_QUOTE"/>
+		<Row LeaderType="LEADER_LANN_CLEVER" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_LANN_CLEVER_QUOTE"/>
+		<Row LeaderType="LEADER_GARTH_GREENHAND" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_GARTH_GREENHAND_QUOTE"/>
+		<Row LeaderType="LEADER_DURRAN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_DURRAN_QUOTE"/>
+		<Row LeaderType="LEADER_GREY_KING" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_GREY_KING_QUOTE"/>
+		<Row LeaderType="LEADER_ARTYS_ARRYN" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_ARTYS_ARRYN_QUOTE"/>
+		<Row LeaderType="LEADER_LEAF" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_LEAF_QUOTE"/>
+	</LeaderQuotes>
+</GameData>

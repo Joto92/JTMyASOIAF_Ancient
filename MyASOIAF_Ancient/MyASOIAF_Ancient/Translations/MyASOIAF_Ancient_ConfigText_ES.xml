@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- VALYRIA	-->
+		<Replace Tag="LOC_CIVILIZATION_VALYRIA_DESCRIPTION" Language="es_ES">
+			<Text>Feudo Franco de Valyria</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VALYRIA_ADJECTIVE" Language="es_ES">
+			<Text>Valyrio</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_VALYRIAN_DRAGONLORD_NAME" Language="es_ES">
+			<Text>Dragonlord de Valyria</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DRAGON_FREEHOLD_NAME" Language="es_ES">
+			<Text>Dragones del Feudo Franco</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DRAGON_FREEHOLD_DESCRIPTION" Language="es_ES">
+			<Text>Captura unidades derrotadas como Constructores. Todas las ciudades que fundes o conquistes, si se encuentran dentro del alcance de una Ruta comercial [ICON_TradeRoute] de tu capital [ICON_Capital] también comenzarán con una Carretera hacia ella.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DRAGONRIDERS_NAME" Language="es_ES">
+			<Text>Jinetes Dragon</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DRAGONRIDERS_DESCRIPTION" Language="es_ES">
+			<Text>Un espacio de política comodín adicional en cualquier gobierno. +10 a la Fuerza de combate [ICON_Strength] al luchar en un continente diferente al de tu capital [ICON_Capital].</Text>
+		</Replace>
+		<!-- END OF  VALYRIA  -->
+		<!-- GHIS	-->
+		<Replace Tag="LOC_CIVILIZATION_GHIS_DESCRIPTION" Language="es_ES">
+			<Text>Imperio de Ghis</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_GRAZDAN_THE_GREAT_NAME" Language="es_ES">
+			<Text>Grazdan El Grande</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ANCIENT_GHIS_NAME" Language="es_ES">
+			<Text>Antiguo Ghis</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ANCIENT_GHIS_DESCRIPTION" Language="es_ES">
+			<Text>Captura unidades derrotadas como Constructores. Mantenimiento de unidades reducido en 1 por unidad.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SLAVEMASTERS_NAME" Language="es_ES">
+			<Text>Maestro de Esclavos</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SLAVEMASTERS_DESCRIPTION" Language="es_ES">
+			<Text>Gasta cargars de los Constructores para completar un 20% del coste original del distrito. Cuando construyen Maravillas Antiguas o Classicas los Constructores pueden gastar cargas para completar un 15% de la maravilla. Los constructores reciben una carga addicional.</Text>
+		</Replace>
+		<!-- END OF  GHIS  -->
+		<!-- RHOYNAR	-->
+		<Replace Tag="LOC_TRAIT_ANCIENT_RHOYNAR_NAME" Language="es_ES">
+			<Text>Antiguo Rhoynar</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ANCIENT_RHOYNAR_DESCRIPTION" Language="es_ES">
+			<Text>+15% a la Producción [ICON_Production] de distritos y maravillas si se encuentran adyacentes a un Río. Los Terrenos de aluvión no bloquean la colocación de distritos y maravillas. Todas las casillas a lado de un rio ganan 1 [ICON_Food] de Alimentos. </Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TEN_THOUSANDS_SHIPS_NAME" Language="es_ES">
+			<Text>Diez Mil Barcos</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TEN_THOUSANDS_SHIPS_DESCRIPTION" Language="es_ES">
+			<Text>Crecimiento un 10% más rápido para las ciudades que no estén en el continente original de tu capital [ICON_Capital]. +15% al Oro [ICON_Gold] en las ciudades que no estén en el continente original de tu capital [ICON_Capital]. Espacio adicional para política militar. Las unidades consiguen la habilidad de entrar en aguas profundas después de investigar la tecnología de la Construcción naval. </Text>
+		</Replace>
+		<!-- END OF  RHOYNAR  -->
+		<!-- SARNOR	-->
+		<Replace Tag="LOC_CIVILIZATION_SARNOR_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Sarnor</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ANCIENT_SARNOR_NAME" Language="es_ES">
+			<Text>Antiguo Sarnor</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ANCIENT_SARNOR_DESCRIPTION" Language="es_ES">
+			<Text>+15% a la Producción [ICON_Production] de distritos y maravillas si se encuentran adyacentes a un Río. Las Rutas comerciales [ICON_TradeRoute] entre varios continentes reciben una bonificación de Oro [ICON_Gold] si son con otras civilizaciones; y bonificación a Alimentos [ICON_Food] y Producción [ICON_Production] si son entre tus ciudades. </Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_SARNORI_HIGH_KING_NAME" Language="es_ES">
+			<Text>Último Gran Rey Sarnori</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_SARNORI_HIGH_KING_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] ganan +1 de Oro [ICON_Gold] por pasar por los Puestos comerciales que hay en tus ciudades. +7 [ICON_Strength] Fuerza de Combate cuando ocupan un distrito o un Fuerte.</Text>
+		</Replace>
+		<!-- END OF  SARNOR  -->
+		<!-- BRANDON_STARK	-->
+		<Replace Tag="LOC_TRAIT_BRAN_THE_BUILDER_NAME" Language="es_ES">
+			<Text>Bran el Constructor</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_BRAN_THE_BUILDER_DESCRIPTION" Language="es_ES">
+			<Text>Gasta cargas de Constructor para completar el 20% del coste original del distrito. Al construir maravillas antiguas y clásicas puedes gastar cargas de Constructor para completar el 15% del coste original de la maravilla. Los Constructores reciben una carga adicional.</Text>
+		</Replace>
+		<!-- END OF  BRANDON_STARK  -->
+		<!-- LANN_CLEVER	-->
+		<Replace Tag="LOC_LEADER_LANN_CLEVER_NAME" Language="es_ES">
+			<Text>Lann el Astuto</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_CLEVER_NAME" Language="es_ES">
+			<Text>El Astuto</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_CLEVER_DESCRIPTION" Language="es_ES">
+			<Text>Un espacio de política comodín adicional en cualquier gobierno.</Text>
+		</Replace>
+		<!-- END OF  LANN_CLEVER  -->
+		<!-- GARTH_GREENHAND	-->
+		<Replace Tag="LOC_LEADER_GARTH_GREENHAND_NAME" Language="es_ES">
+			<Text>Garth Manoverde</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_GREEN_NAME" Language="es_ES">
+			<Text>El Verde</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_GREEN_DESCRIPTION" Language="es_ES">
+			<Text>Garth, más conocido como Garth Manoverde, fue un héroe legendario de la Edad de los Héroes y el, según se dice, progenitor de la mayoría de fundadores de casas nobles y familias del Dominio. Muchos creen que era un dios.</Text>
+		</Replace>
+		<!-- END OF  GARTH_GREENHAND  -->
+		<!-- GARTH_GREENHAND	-->
+		<Replace Tag="LOC_TRAIT_GODSGRIEF_NAME" Language="es_ES">
+			<Text>Pesardedioses</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GODSGRIEF_DESCRIPTION" Language="es_ES">
+			<Text>Al eliminar a una unidad, recuperan hasta 50 puntos de golpe. +5 a la Fuerza de combate [ICON_STRENGTH] de las unidades terrestres en casillas terrestres adyacentes a la Costa.</Text>
+		</Replace>
+		<!-- END OF  GARTH_GREENHAND  -->
+		<!-- GREY_KING	-->
+		<Replace Tag="LOC_LEADER_GREY_KING_NAME" Language="es_ES">
+			<Text>Rey Gris</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SEADRAGON_SLAYER_NAME" Language="es_ES">
+			<Text>Cazador de Dragones Marinos</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SEADRAGON_SLAYER_DESCRIPTION" Language="es_ES">
+			<Text>Los distritos de Campamento y Lugar sagrado se construyen en la mitad del tiempo normal. +100% de bonificaciones por adyacencia de los distritos de Centro comercial y Puerto. Todos los distritos ganan +1[ICON_Faith] Fe por adyacencia a la Costa.</Text>
+		</Replace>
+		<!-- END OF  GREY_KING  -->
+		<!-- ARTYS_ARRYN	-->
+		<Replace Tag="LOC_TRAIT_FALCON_KNIGHT_NAME" Language="es_ES">
+			<Text>Caballero Falcón</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_FALCON_KNIGHT_DESCRIPTION" Language="es_ES">
+			<Text>Los Inquisidores pueden Eliminar herejía una vez más. Las unidades de combate tienen una bonificación de +4 a la Fuerza de combate [ICON_Strength] contra jugadores de otras religiones. Cuando capturas un Puesto bárbaro, recibes una recompensa de Aldea tribal, además del Oro [ICON_Gold] usual.</Text>
+		</Replace>
+		<!-- END OF  ARTYS_ARRYN  -->
+		<!-- LEAF	-->
+		<Replace Tag="LOC_CIVILIZATION_CHILDREN_OF_FOREST_NAME" Language="es_ES">
+			<Text>Hijos del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CHILDREN_OF_FOREST_DESCRIPTION" Language="es_ES">
+			<Text>Hijos del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CHILDREN_OF_FOREST_ADJECTIVE" Language="es_ES">
+			<Text>Hijos del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_LEAF_NAME" Language="es_ES">
+			<Text>Hoja</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THOSE_WHO_SING_THE_SONG_OF_EARTH_NAME" Language="es_ES">
+			<Text>Aquellos que Cantan las Canciones de la Tierra</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THOSE_WHO_SING_THE_SONG_OF_EARTH_DESCRIPTION" Language="es_ES">
+			<Text>Recibe automáticamente al Gran profeta final cuando se reclame el penúltimo (si no has conseguido ya al Gran profeta). Los Bosques dan +1 bonus de adyacencia para los Sitios Sagrados y los Teatros. Tiene 1 nivel más de visibilidad diplomática [ICON_VisLimited] de lo normal con cada civilización que se encuentre.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_CHILDREN_FOREST_NAME" Language="es_ES">
+			<Text>Última Niña del Bosque</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_CHILDREN_FOREST_DESCRIPTION" Language="es_ES">
+			<Text>Duplica el rendimiento de la Fe [ICON_Faith] de los edificios de los distritos de Lugar sagrado. Las civilizaciones opuestas reciben el doble de hastío bélico por luchar contra los Hijos del Bosque.</Text>
+		</Replace>
+		<!-- END OF  LEAF  -->
+	</LocalizedText>
+</GameData>

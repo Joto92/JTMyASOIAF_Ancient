@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: A Song of Ice And Fire Ancient</Name>
+    <Guid>9f9e21fb-ffd8-495a-a8cc-2d9f13b9cfc5</Guid>
+    <ProjectGuid>518fc7ee-c05b-4444-8849-c0e12a2445d9</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Ancient Civs Mod of A Song of Ice And Fire</Teaser>
+    <Description>This mod adds the Ancient Civilizations of the A Song of Ice And Fire of George RR Martin.</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <InGameActionData><![CDATA[
+      <InGameActions>
+        <UpdateDatabase id="Gameplay">
+          <File>MyASOIAF_Ancient_Civs.xml</File>
+          <File>MyASOIAF_Ancient_Leaders.xml</File>
+          <File>MyASOIAF_Ancient_Colors.xml</File>
+
+        </UpdateDatabase>
+        <UpdateText id="Text">
+          <File>MyASOIAF_Ancient_ConfigText.xml</File>
+          <File>MyASOIAF_Ancient_Text.xml</File>
+          <File>Translations/MyASOIAF_Ancient_ConfigText_ES.xml</File>
+          <File>Translations/MyASOIAF_Ancient_Text_ES.xml</File>
+          <File>MyASOIAF_Ancient_Civilopedia.xml</File>
+          <File>Translations/MyASOIAF_Ancient_Civilopedia_ES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="Icons">
+          <File>MyASOIAF_Ancient_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="Art">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[
+      <FrontEndActions>
+        <UpdateDatabase id="Config">
+          <File>MyASOIAF_Ancient_Config.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="ConfigText">
+          <File>MyASOIAF_Ancient_ConfigText.xml</File>
+          <File>Translations/MyASOIAF_Ancient_ConfigText_ES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="ConfigIcons">
+          <File>MyASOIAF_Ancient_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="ConfigArt">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </FrontEndActions>]]></FrontEndActionData>
+    <AssemblyName>MyASOIAF_Ancient</AssemblyName>
+    <RootNamespace>MyASOIAF_Ancient</RootNamespace>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Mod" title="JT: A Song of Ice And Fire " id="6e66a293-6a21-4650-bb3e-58d55c5fbcc1" />
+</Associations>]]></AssociationData>
+    <Authors>J. Torné</Authors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Translations" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MyASOIAF_Ancient_Civilopedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Ancient_Civs.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Ancient_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Ancient_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Ancient_Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Ancient_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Ancient_Leaders.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Ancient_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_Ancient_Civilopedia_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_Ancient_ConfigText_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_Ancient_Text_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

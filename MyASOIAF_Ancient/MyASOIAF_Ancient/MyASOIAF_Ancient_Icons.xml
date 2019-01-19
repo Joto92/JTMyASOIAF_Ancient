@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconDefinitions>
+		<!--
+		LEADERS:
+		0: Robb Stark | 1: Edmure Tully | 2: LittleFinger | 3: Tywin Lan | 4: Stannis | 5: Olenna | 6: Doran Martell | 7: Balon Greyjoy |
+		8: Joffrey | 9: Night's King | 10: Dany | 11: Bolton | 12: Walder Frey | 13: Beor | 14: Mance | 15: Robert Baratheon 
+		16: Renly | 17: Lyssa Arryn | 18: Drogo | 19: Euron| 20: Cersei | 21: Ned | 22: Jon Nieve | 23: Aegon  |
+		24: Mazor Alexi | 25: Nymeria | 26: Ghis | 27: Valeryian | 28: Fakeagon | 29: Cregan Stark | 30: Jeyne Arryn | 31: Borros Baratheon |
+		32: Jason Lannister | 33: Dalton Greyjoy | 34: Aliandra Martell | 35: Rhaeynera Targ | 36: Aegon II | 37: Lyonel Tyrell | 38: Torhen Stark | 39: Edymn tully
+		40: Harren | 41: Meira Martell | 42: Sharra Arryn | 43: Loren Lannister | 44: Mern Garden | 45: Argilac Dundarreon | 46: Hoster Tully | 47: Jon Arryn
+		48: Aerys II | 49: Daeron II | 50: Daemon Blackfyre | 51: Bran the Builder | 52: Lann the Clever | 53: Garth Greehan | 54: Durran | 55: Grey King
+		56: Artys Arryn | 57: Leaf | 58: Baelor the Saint
+		-->
+		<Row Name="ICON_CIVILIZATION_VALYRIA"   	   Atlas="ICON_ATLAS_MYSOIAF_CIVILIZATIONS" Index="30"/>
+		<Row Name="ICON_LEADER_VALYRIAN_DRAGONLORD" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="27"/>
+
+		<Row Name="ICON_CIVILIZATION_GHIS"   	   Atlas="ICON_ATLAS_MYSOIAF_CIVILIZATIONS" Index="31"/>
+		<Row Name="ICON_LEADER_GRAZDAN_THE_GREAT" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="26"/>
+
+		<Row Name="ICON_CIVILIZATION_RHOYNAR"         Atlas="ICON_ATLAS_MYSOIAF_CIVILIZATIONS" Index="59"/>
+		<Row Name="ICON_LEADER_NYMERIA" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="25"/>
+		
+		<Row Name="ICON_CIVILIZATION_SARNOR"   	   Atlas="ICON_ATLAS_MYSOIAF_CIVILIZATIONS" Index="32"/>
+		<Row Name="ICON_LEADER_MAZOR_ALEXI" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="24"/>
+		
+		<Row Name="ICON_CIVILIZATION_CHILDREN_OF_FOREST"   	   Atlas="ICON_ATLAS_MYSOIAF_CIVILIZATIONS" Index="17"/>
+
+		
+		<Row Name="ICON_LEADER_BRANDON_STARK" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="51"/>
+		<Row Name="ICON_LEADER_LANN_CLEVER" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="52"/>
+		<Row Name="ICON_LEADER_GARTH_GREENHAND" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="53"/>
+		<Row Name="ICON_LEADER_DURRAN" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="54"/>
+		<Row Name="ICON_LEADER_GREY_KING" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="55"/>
+		<Row Name="ICON_LEADER_ARTYS_ARRYN" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="56"/>
+		<Row Name="ICON_LEADER_LEAF" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="57"/>
+
+	</IconDefinitions>
+</GameData>

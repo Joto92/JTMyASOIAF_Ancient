@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MYSOIAF_DISTRICT_FOREST_FAITH" Language="es_ES">
+			<Text>+1 [ICON_Faith] Fe por Bosques</Text>
+		</Replace>
+		<Replace Tag="LOC_MYSOIAF_DISTRICT_FOREST_CULTURE" Language="es_ES">
+			<Text>+1 [ICON_Culture] Cultura por Bosques</Text>
+		</Replace>
+		<!-- VALYRIA	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_VALYRIAN_DRAGONLORD" Language="es_ES">
+			<Text>El Feudo Franco fue gobernado por Señores Feudales, las familias más nobles y poderosas. Estos se llamaban Dragonlords. Los Targaryens fueron uno de estos Dragonlords, pero lejos de los más poderosos.</Text>
+		</Replace>
+		<!-- END OF  VALYRIA  -->
+		<!-- GHIS	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GRAZDAN_THE_GREAT" Language="es_ES">
+			<Text>Grazdan el Grande fue el fundadore del Imperio de Ghis.  Su nombre se convirtio en uno de los mas populares entre sus descendientes del Imperio Ghiscari.</Text>
+		</Replace>
+		<!-- END OF GHIS	-->
+		<!-- RHOYNE	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_NYMERIA" Language="es_ES">
+			<Text>Nymeria fue la reina guerrera y la Princesa de los rhoynar. Nymeria gobernaba en Ny Sar, donde tenia su palacio. Cuando el Feudo Franco conquisto el Rhoyne con sus dragones, Nymeria guio los supervivientes de su exilio de Essos. Por un tiempo Nymeria y sus refugiados vivieron en Abulu, en las Islas del Verano, conocida como la Isla de las Mujeres. La reina guerrera compro diez mil barcos para cruzar el Mar Estrecho hacia las costas de Dorne. </Text>
+		</Replace>
+		<!-- END OF RHOYNE	-->
+		<!-- SARNOR	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MAZOR_ALEXI" Language="es_ES">
+			<Text>Mazor Alexi fue el último Gran Rey del Reino de Sarnor. Mazor Alexi reunió un gran ejercito de las distintas ciudades en río Sarne y marcho hacia el Este. En los campos entre Sarnath y las ruinas de Kasath, los Hombres Altos se enfrentaron a cuatro khalasars, con una fuerza convinada de ocho mil señores caballo, la batalla fue nombrada Campo de Cuervos. Los carros Sarnori aplastaron el centro del ejercito Dothraki, matando el Khal Haro y causando que khalasar se retirara. Alexi y su caballeria montada los siguieron pero fue una trampa... </Text>
+		</Replace>
+		<Replace Tag="LOC_MYSOIAF_GARRISON_BONUS_DISTRICTS_DESCRIPTION" Language="es_ES">
+			<Text>+7 [ICON_Strength] Fuerza de Combate cuando ocupan un distrito o un Fuerte.</Text>
+		</Replace>
+		<!-- END OF SARNOR	-->
+		<!-- BRANDON_STARK	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_BRANDON_STARK" Language="es_ES">
+			<Text>El rey Brandon Stark, mejor conocido como Brandon el Constructor, fue, según las leyendas, el fundador de la Casa Stark y como tal, Señor de Invernalia y Rey en el Norte. Se cree que vivió durante la Edad de los Héroes.</Text>
+		</Replace>
+		<!-- END OF  BRANDON_STARK  -->
+		<!-- LANN_CLEVER	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_LANN_CLEVER" Language="es_ES">
+			<Text>Lann, más conocido como Lann el Astuto, fue un héroe legendario de la Edad de los Héroes que fundó la Casa Lannister.</Text>
+		</Replace>
+		<!-- END OF  LANN_CLEVER  -->
+		<!-- GARTH_GREENHAND	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GARTH_GREENHAND" Language="es_ES">
+			<Text>Garth Greenhand, also called Garth Greenhair and Garth the Green, was a mythical High King of the First Men and said to have been the common ancestor of numerous houses from the Reach. His firstborn son, Garth the Gardener, founded House Gardener, the Kings of the Reach. According to some legendes, Garth Greenhand was the High King who led the First Men across the Arm of Dorne. Other tales claim he predated the arrival of the First Men, making not only the first human in Westeros but also the only human, and that he interacted with the children of the forest and giants.</Text>
+		</Replace>
+		<!-- END OF  GARTH_GREENHAND  -->
+		<!-- DURRAN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DURRAN" Language="es_ES">
+			<Text>El rey Durran, también conocido como Durran Pesardedioses, fue el primer Rey de la Tormenta y el fundador de la Casa Durrandon. La leyenda cuenta que contrajo matrimonio con Elenei, la hija del dios del mar y la diosa del viento.</Text>
+		</Replace>
+		<!-- END OF  DURRAN  -->
+		<!-- GREY_KING	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GREY_KING" Language="es_ES">
+			<Text>El Rey Gris fue un legendario monarca de las Islas del Hierro, del cual se dice que gobernó durante mil siete años. La mayoría de las grandes casas de las Islas del Hierro afirman descender del Rey Gris, incluida la Casa Greyjoy, con la excepción de la Casa Goodbrother, quienes aseguran descender del leal hermano mayor del rey.</Text>
+		</Replace>
+		<!-- END OF  GREY_KING  -->
+		<!-- ARTYS_ARRYN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ARTYS_ARRYN" Language="es_ES">
+			<Text>El rey Artys Arryn, conocido como Caballero Halcón, fue un líder ándalo que se convirtió en el primer Rey de la Montaña y el Valle y fundó la Casa Arryn, tras derrotar a los Primeros Hombres en la Batalla de las Siete Estrellas. Es a veces confundido con el Caballero Alado, un héroe legendario del Valle de miles de años antes de la Invasión Ándala.</Text>
+		</Replace>
+		<!-- END OF  ARTYS_ARRYN  -->
+		<!-- LEAF	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_LEAF" Language="es_ES">
+			<Text>Hoja es una de los Hijos del Bosque al servicio del Último Verdevidente. Es la única de entre los Hijos del Bosque que habla la Lengua Común de Poniente. Asegura tener unos 200 años.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GODS_EYE" Language="es_ES">
+			<Text>God's Eye</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HIGH_HEART" Language="es_ES">
+			<Text>High Heart</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RAINWOOD" Language="es_ES">
+			<Text>Rainwood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MISTYWOOD" Language="es_ES">
+			<Text>Mistywood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WHITEWOOD" Language="es_ES">
+			<Text>Whitewood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KINGSWOOD" Language="es_ES">
+			<Text>Kingswood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WOLFSWOOD" Language="es_ES">
+			<Text>Wolfswood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LORN_POINT" Language="es_ES">
+			<Text>Lorn Point</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CAVA_THREEEYE_CROW" Language="es_ES">
+			<Text>Cave of Three-yeed Crow</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SNAKEWOOD" Language="es_ES">
+			<Text>Snakewood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_IFEQUEVRON" Language="es_ES">
+			<Text>Ifequevron</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_QOHOR_FOREST" Language="es_ES">
+			<Text>Qohor Forest</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THREEPENNYWOOD" Language="es_ES">
+			<Text>Threepennywood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WHISPERINGWOOD" Language="es_ES">
+			<Text>Whisperingwood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WATS_WOOD" Language="es_ES">
+			<Text>Wat's Wood</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_THE_NECK" Language="es_ES">
+			<Text>The Neck</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CRACKCLAW_POINT" Language="es_ES">
+			<Text>Crackclaw Point</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STORROLDS_POINT" Language="es_ES">
+			<Text>Storrold’s Point</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LONGLAKE" Language="es_ES">
+			<Text>Longlake</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LAST_RIVER" Language="es_ES">
+			<Text>Last River</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FOREST_OF_KAR" Language="es_ES">
+			<Text>Forest of Kar</Text>
+		</Replace>
+		<!-- END OF  LEAF  -->
+	</LocalizedText>
+</GameData>

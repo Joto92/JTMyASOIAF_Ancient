@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_VALYRIAN_DRAGONLORD_NEUTRAL"/>
+			<m_ObjectName text="LEADER_VALYRIAN_DRAGONLORD_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VALYRIAN_DRAGONLORD_BACKGROUND"/>
+			<m_ObjectName text="LEADER_VALYRIAN_DRAGONLORD_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GRAZDAN_THE_GREAT_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GRAZDAN_THE_GREAT_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GRAZDAN_THE_GREAT_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GRAZDAN_THE_GREAT_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NYMERIA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_NYMERIA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NYMERIA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_NYMERIA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAZOR_ALEXI_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MAZOR_ALEXI_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAZOR_ALEXI_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MAZOR_ALEXI_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_BRANDON_STARK_NEUTRAL"/>
+			<m_ObjectName text="LEADER_BRANDON_STARK_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_BRANDON_STARK_BACKGROUND"/>
+			<m_ObjectName text="LEADER_BRANDON_STARK_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LANN_CLEVER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LANN_CLEVER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LANN_CLEVER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_LANN_CLEVER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GARTH_GREENHAND_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GARTH_GREENHAND_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GARTH_GREENHAND_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GARTH_GREENHAND_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DURRAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DURRAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DURRAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DURRAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GREY_KING_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GREY_KING_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GREY_KING_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GREY_KING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARTYS_ARRYN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ARTYS_ARRYN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARTYS_ARRYN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ARTYS_ARRYN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LEAF_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LEAF_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LEAF_BACKGROUND"/>
+			<m_ObjectName text="LEADER_LEAF_BACKGROUND"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

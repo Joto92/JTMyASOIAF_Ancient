@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VALYRIAN_DRAGONLORD_QUOTE" Language="en_US">
+			<Text>“While the dragonlords brought the world to heel, the slave markets of their former enemies never lacked for flesh.”[NEWLINE]– Jorah Mormont </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GRAZDAN_THE_GREAT_QUOTE" Language="en_US">
+			<Text>“Our empire was old before dragons stirred in Old Valyria”[NEWLINE]– Razdal mo Eraz about Ghis Empire</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NYMERIA_QUOTE" Language="en_US">
+			<Text>“Thousands of years ago, the warrior queen Nymeria crossed into Dorne from Essos, fleeing the dragonlords of Valyria. After she landed, she burned her ships, all 10,000 of them, so no cowards could slink home. What a woman. Dornish in spirit before she ever was in flesh.”[NEWLINE]– Oberyn Martell about Nymeria </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAZOR_ALEXI_QUOTE" Language="en_US">
+			<Text>“The Dothraki tide slammed first into the Sarnori, who called themselves the Tall Men, and whose ancient kingdom dominated the grasslands of Essos.”[NEWLINE]– Jorah Mormont about Kingdom of Sarnor</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BRANDON_STARK_QUOTE" Language="en_US">
+			<Text>“One hero of this fabled age was Bran the Builder. Bran raised the Wall and built the stronghold of Winterfell, establishing House Stark and reigning as the first King in the North.”[NEWLINE]– Bran Stark about Bran the Builder</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LANN_CLEVER_QUOTE" Language="en_US">
+			<Text>“We Lannisters claim our descent from the Andal invaders and, through the female bloodline, Lann the Clever. According to the legend, Lann, using only his wits, won Casterly Rock from the noble house of Casterly during the Age of Heroes.”[NEWLINE]– Tywin Lannister about Lann </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GARTH_GREENHAND_QUOTE" Language="en_US">
+			<Text>“It seems dear ancestor Garth "planted" as many flowers as he plucked. A king should have more consideration for his line, don't you think?”[NEWLINE]– Margaery Tyrell about Garth</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DURRAN_QUOTE" Language="en_US">
+			<Text>“Durran declared war on the gods and rebuilt his keep, which was also destroyed.”[NEWLINE]– Bran Stark about Durran</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GREY_KING_QUOTE" Language="en_US">
+			<Text>“We traced our descent from the Age of Heroes and the legendary Grey King, who took a mermaid to wife and made war upon the Storm God for a thousand years.”[NEWLINE]– Yara Greyjoy</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARTYS_ARRYN_QUOTE" Language="en_US">
+			<Text>“Learning from the First Men, the remaining Andals united behind a leader of their own. Not a king or a lord, but a knight who'd been born in the Vale and knew it as well as the First Men. Ser Artys Arryn, known as the Falcon Knight.”[NEWLINE]– Petyr Baelish</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEAF_QUOTE" Language="en_US">
+			<Text>Men, they are the children.</Text>
+		</Row>
+		<!-- CIV INFO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_CIVINFO_VALYRIA_LOCATION" Language="en_US">
+			<Text>Essos</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_VALYRIA_SIZE" Language="en_US">
+			<Text>Valyria 540,000 square miles and  3,420,000 at his peak</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_VALYRIA_POPULATION" Language="en_US">
+			<Text>19 million at it's end</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_VALYRIA_CAPITAL" Language="en_US">
+			<Text>Valyria</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GHIS_LOCATION" Language="en_US">
+			<Text>Essos</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GHIS_SIZE" Language="en_US">
+			<Text>675,000 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GHIS_POPULATION" Language="en_US">
+			<Text>11 million (3 million Meereen, 1,5 million Astapor, 1,3 million Yunkai, 4 million Ghis) </Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GHIS_CAPITAL" Language="en_US">
+			<Text>Ghis</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RHOYNAR_LOCATION" Language="en_US">
+			<Text>Essos</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RHOYNAR_SIZE" Language="en_US">
+			<Text>252,000 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RHOYNAR_POPULATION" Language="en_US">
+			<Text>5 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RHOYNAR_CAPITAL" Language="en_US">
+			<Text>Ny Sar</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SARNOR_LOCATION" Language="en_US">
+			<Text>Essos</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SARNOR_SIZE" Language="en_US">
+			<Text>855,00 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SARNOR_POPULATION" Language="en_US">
+			<Text>7 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SARNOR_CAPITAL" Language="en_US">
+			<Text>Sarnath</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHILDREN_OF_FOREST_LOCATION" Language="en_US">
+			<Text>Westeros</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHILDREN_OF_FOREST_POPULATION" Language="en_US">
+			<Text>A few thousands decreasing to extinction with the arrival of humans</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHILDREN_OF_FOREST_CAPITAL" Language="en_US">
+			<Text>Gods Eye, later the Cave of Three-eyed Crow</Text>
+		</Row>
+		<!-- CIVILIZATIONS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VALYRIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Valyrian Freehold was a great territory that spanned much of the continent of Essos. At its prime, the Valyrian Freehold encompassed most of the eastern continent and reached as far as the current Free Cities and the island of Dragonstone off the coast of Westeros. The Freehold was technically never an empire, however for ease of reference it tends to be referred to as one. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VALYRIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Freehold was an advanced civilization, and the dominant military and cultural power of the known world. Its capital was the city Valyria. The Freehold was ruled by the lords freeholder, powerful noble families. The most powerful of these were the dragonlords. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VALYRIA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Doom of Valyria was a cataclysmic event in 114 BC, after which the city Valyria was utterly destroyed and the Valyrian Freehold crumbled and was no more. The Doom fragmented the land surrounding the city itself into numerous smaller islands, creating the Smoking Sea between them. The area is now described as "demon-haunted", and most people are afraid to go there, as all known expeditions to the shattered peninsula has ended up in failure. Hence the quote, "The Doom still rules in Valyria."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GHIS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Old Empire of Ghis was one of the oldest known nations and cultures in the world. It reigned supreme over much of Essos. Its founding and golden age predate that of its successor, the Valyrian Freehold, by thousands of years. The Old Empire took the harpy emblem of Ghis. It depicted a fanged woman with leathery wings for arms, the legs of an eagle, and the tail of scorpion, clutching a thunderbolt in her talons. It rose from the ancient city of Ghis in Ghiscar and grew into a military, economic and cultural powerhouse. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_RHOYNAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>They were a culture of river-faring people who dwelt on the banks of the immense river Rhoyne in Essos. After being forced to flee in ten thousand ships during the Rhoynish Wars with Valyria, the surviving Rhoynar eventually settled in Dorne in southern Westeros. The Rhoynar lived in city-states along the vast network of the river Rhoyne, including Ar Noy, Chroyane, Ghoyan Drohe, Ny Sar, Sar Mell, and Sarhoy. The Rhoynar used water magic to defend themselves from enemies.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SARNOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Kingdom of Sarnor is a region of northern Essos along the shores of the Shivering Sea. The Forest of Qohor and Vaes Khadokh are to the west, while the Dothraki sea extends along the south.  Most of the grassland kingdom was destroyed by the Dothraki in the Century of Blood after the Doom of Valyria, with the cities Gornath, Kasath, Sallosh, Sarnath, Sarys, and Sathar left in ruins. The only surviving Sarnori settlement is Saath. Sarnor was an ancient kingdom centered around the great river Sarne and its tributaries and some of the lakes remnants of the Silver Sea. They boasted descent from legendary king Huzhor Amai. A confederation of city-states each with its own king, the Sarnori were nominally ruled from Sarnath by a High King. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHILDREN_OF_FOREST_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The children of the forest, sometimes referred to simply as the children, are a mysterious non-human race that originally inhabited the continent of Westeros during the Dawn Age long before the arrival of the First Men thousands of years ago. The giants call them woh dak nag gram (little squirrel people). They call themselves those who sing the song of earth in the True Tongue. The children have not been seen by men for hundreds of years. The children wielded obsidian weapons and weirwood bows in battle, but also used powerful magic. Legends say the children of the forest were gifted with supernatural powers. These included having power over the beasts of the wood, the ability to wear an animal's skin, the skill to create music so beautiful as to bring tears to the eyes of any who heard it, the greensight ability and the ability to speak to the dead. It is unknown if there is a connection between the children of the forest and the Ifequevron, or "woods walkers", of northern Essos. There is a ruined settlement of carved trees and haunted grottoes.</Text>
+		</Row>
+		<!-- LEADERS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VALYRIAN_DRAGONLORD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dragonlords were the dragon-riding most powerful nobles of the Valyrian Freehold. Leadership of the Valyrian Freehold was contested by twoscore noble families who normally gathered in Valyria. Strong in sorcery,  the dragonlords of old are said to have used binding spells and horns  to control their dragons, and they used dragonflame to reshape stone into decorative shapes. Some scholars have written that the dragonlords considered themselves more powerful than gods.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GRAZDAN_THE_GREAT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Grazdan the Great is the legendary founder of Old Ghis. He is still so revered that men of the slaver families of Slaver's Bay are still often given his name. According to legend, Grazdan founded the lockstep legions, with which Old Ghis colonized its surroundings and subjugated its neighbors, forming the first empire. Grazdan is also credited with raising the ancient brick walls of Old Ghis.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NYMERIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Nymeria was a Princess of the Rhoynar. After the Rhoyne was conquered by Valyria, Nymeria led the Rhoynar to Dorne, where she took Lord Mors Martell as her husband. House Nymeros Martell has ruled Dorne since.  Nymeria ruled in Ny Sar, where she had a palace. When the Valyrian Freehold conquered the Rhoyne with their dragons, Nymeria led the surviving Rhoynar into exile from Essos.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAZOR_ALEXI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Mazor Alexi was the last High King of the Kingdom of Sarnor. Prior to the fall of Mardosh to the Dothraki, the kings of the Sarnori had remained divided, but the destruction of the "City of Soliders" and all its population led them to put aside their petty rivalries and ambitions and unite under their High King. Mazor Alexi assembled a great army from up and down the Sarne and struck out east. In the tall grass between Sarnath and the ruins of Kasath, the Tall Men faced four khalasars, with a combined might of eighty thousand horselords, in a battle that would be known as the Field of Crows. The Sarnori chariots smashed through the center of the Dothraki horse, killing Khal Haro and causing his khalasar to retreat. Alexi and his mounted cavalry plunged in after them followed by the Sarnori foot but it was a trap, the fleeing Dothraki turned and unleashed a storm of arrows while the khalasars of Khals Qano and Zhako swept in from north and south, while Khal Loso and his screamers struck the Sarnori rear. Completely surrounded, Alexi's host was cut to pieces. A hundred thousand men died, Mazor Alexi among them.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BRANDON_STARK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Brandon Stark, also known as Brandon the Builder and Bran the Builder, was the legendary founder of House Stark who is said to have lived during the Age of Heroes.Scholars believe an ancient king's actions have been exaggerated into legend, or the reigns of multiple kings have been remembered as one through the passage of time. According to legend, Brandon built the Wall and Winterfell;  some stories say he did this with the help of giants.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LANN_CLEVER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Lann the Clever is the legendary hero from the Age of Heroes that founded House Lannister.  Lann is popular amongst singers and storytellers. One popular story tells how Lann supposedly swindled Casterly Rock from the Casterlys using nothing but his wits.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GARTH_GREENHAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Garth Greenhand, also called Garth Greenhair and Garth the Green, was a mythical High King of the First Men and said to have been the common ancestor of numerous houses from the Reach. His firstborn son, Garth the Gardener, founded House Gardener, the Kings of the Reach. According to some legends, Garth Greenhand was the High King who led the First Men across the Arm of Dorne. Other tales claim he predated the arrival of the First Men, making not only the first human in Westeros but also the only human, and that he interacted with the children of the forest and giants. In some tales he is a god, and in a few of these, the oldest ones, he demands blood sacrifice from his worshippers to ensure a bountiful harvest; in some stories the green god dies every autumn, only to be reborn with the coming of spring. Some tales claim he had green hands, green hair or green skin overall, or antlers like a stag. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DURRAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Durran, called Durran Godsgrief, was the mythic first Storm King and the founder of House Durrandon. Legend has that he was married to Elenei and was the builder of Storm's End. According to legend, Durran won the love of Elenei, the daughter of the sea god and the goddess of the wind, during the Age of Heroes. Her divine parents forbade their love, but Durran and Elenei wed despite them. The gods' wrath was terrible to behold, destroying Durran's keep on his wedding night and killing all his family and guests, but Durran survived under Elenei's protection. Enraged, Durran declared war on the gods, who replied by hammering his kingdom with massive storms. Each time Durran built a castle to face the sea the gods destroyed it. King Durran persisted in building larger and more powerful fortifications, until finally the seventh castle, Storm's End, stayed in place and resisted the storms of Shipbreaker Bay. Some believe this is because the children of the forest took a hand in its construction; others believe that a young boy, who grew up to be Bran the Builder, advised Durran on its construction. The truth of the matter is unknown.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GREY_KING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Grey King is a legendary monarch of the Iron Islands who is said to have ruled for 1,007 years. All of the great houses of the islands claim descent from the Grey King, including House Greyjoy, with the exception of House Goodbrother, who claim descent from the Grey King's loyal eldest brother. Legends say the Grey King slew the sea dragon Nagga, after which the Drowned God turned the sea dragon's bones to stone. From the bones was made the Grey King's Hall, which he heated with Nagga's living fire. He took a mermaid as his wife so his children could live on land or in water. He also wore a crown of driftwood so all who knelt before him would know his power came from the sea and the Drowned God himself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARTYS_ARRYN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Artys I Arryn was the first King of Mountain and Vale and the founder of House Arryn in Westeros. Prior to his coronation, Ser Artys, called the Falcon Knight, was an Andal knight who defeated the First Men of the Vale in the Battle of the Seven Stars. He is sometimes combined in tales with the Winged Knight, a legendary hero of the Vale from thousands of years before the Andal invasion. Artys was born of pure Andal blood in the Vale in the shadow of the Giant's Lance. On his shield he bore the moon-and-falcon and a pair of falcon's wings decorated his silver warhelm, earning him the nickname of the Falcon Knight. He was esteemed as the finest warrior of his day, skilled with sword, lance and morningstar. Artys was a cunning and resourceful leader, beloved by all who fought beside him. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARTYS_ARRYN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>After King Robar II Royce united the First Men of the Vale, the Mountains of the Moon, and the Fingers under his rule and struck against the divided Andal houses and petty kings, the Andals unified under the leadership of Ser Artys, who was of an age with King Robar. He led the Andal army in the Battle of Seven Stars, taking part in its final stage. Artys led a force of over five hundred knights through a goat track on the Giant's Lance to take the already weakened First Men in the rear, leaving a decoy, who was slain by Robar, among the main fighting force. It is possible he slew Robar himself, though other candidates have been put forth over the centuries. After the Andal victory, the First Men houses bent the knee to Ser Artys, who was proclaimed King of Mountain and Vale, thus founding the Arryn dynasty.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEAF_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Leaf is one of the children of the forest in service to the last greenseer. Leaf was born in the time of the dragon and walked the world of men for two hundred years to watch, listen, and learn. She might be walking still, but her legs were sore and her heart was weary, so she turned her feet for home. She is the only one of the children in the cave of the three-eyed crow who speaks the Common Tongue of Westeros.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

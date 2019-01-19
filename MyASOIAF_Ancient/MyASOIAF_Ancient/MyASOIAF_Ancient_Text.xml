@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_MYSOIAF_DISTRICT_FOREST_FAITH" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Forest</Text>
+		</Row>
+		<Row Tag="LOC_MYSOIAF_DISTRICT_FOREST_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for Forest</Text>
+		</Row>
+		<!-- VALYRIA	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_VALYRIAN_DRAGONLORD" Language="en_US">
+			<Text>The Freehold was ruled by the lords freeholder, powerful noble families. The most powerful of these were the dragonlords. Dragonlord was the title for members of the forty noble families that vied to actually rule the Valyrian Freehold. The Targaryens were one of the great dragonlord families, but far from the most powerful.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VALYRIA" Language="en_US">
+			<Text>Valyria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TYRIA" Language="en_US">
+			<Text>Tyria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OROS" Language="en_US">
+			<Text>Oros</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESSARIA" Language="en_US">
+			<Text>Essaria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VELOS" Language="en_US">
+			<Text>Velos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRACONYS" Language="en_US">
+			<Text>Draconys</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MHYSA_FAER" Language="en_US">
+			<Text>Mhysa Faer</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RHYOS" Language="en_US">
+			<Text>Rhyos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AQUOS_DHAEN" Language="en_US">
+			<Text>Aquos Daen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOGOSSOS" Language="en_US">
+			<Text>Gogossos</Text>
+		</Row>
+		<!-- Valyrian cities now city-states: Mantarys, Elyria, Tolos, Volantis
+		Volon Therys, Valysar, Selhorys, Lys, Myr, Tyrosh, Qohor, Norvos Dragonstone, Driftmark, Claw Isle
+		Conquered_ Meereen , Astapor, Yunkai-->
+		<!-- END OF  VALYRIA  -->
+		<!-- GHIS	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GRAZDAN_THE_GREAT" Language="en_US">
+			<Text>Grazdan the Great was the founder of Old Ghis. His name is popular among the descendants of the Ghiscari Empire.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GHIS" Language="en_US">
+			<Text>Ghis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAZDAHN_MO" Language="en_US">
+			<Text>Hazdahn Mo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GHAZDAQ" Language="en_US">
+			<Text>Ghazdaq</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GHOZAI" Language="en_US">
+			<Text>Ghozai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GORGAI" Language="en_US">
+			<Text>Gorgai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZAMETTAR" Language="en_US">
+			<Text>Zamettar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GHARDAQ" Language="en_US">
+			<Text>Ghardaq</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOROSH" Language="en_US">
+			<Text>Gorosh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BHORASH" Language="en_US">
+			<Text>Bhorash</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YINISHAR" Language="en_US">
+			<Text>Yinishar</Text>
+		</Row>
+		<!-- Other cities now city-states: Astapor, Yunkai, Meereen, New Ghis-->
+		<!-- END OF GHIS	-->
+		<!-- RHOYNE	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_NYMERIA" Language="en_US">
+			<Text>Nymeria was a warrior queen and a Princess of the Rhoynar. Nymeria ruled in Ny Sar, where she had a palace.When the Valyrian Freehold conquered the Rhoyne with their dragons, Nymeria led the surviving Rhoynar into exile from Essos. For a time Nymeria and her refugees lived on Abulu, one of the Summer Islands now known as the Isle of Women. The warrior queen then brought ten thousand ships across the narrow sea to the shores of Dorne in southern Westeros. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NY_SAR" Language="en_US">
+			<Text>Ny Sar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHROYANE" Language="en_US">
+			<Text>Chroyane</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AR_NOY" Language="en_US">
+			<Text>Ar Noy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAR_MELL" Language="en_US">
+			<Text>Sar Mell</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GHOYAN_DROHE" Language="en_US">
+			<Text>Ghoyan Drohe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SARHOY" Language="en_US">
+			<Text>Sarhoy</Text>
+		</Row>
+		<!-- END OF RHOYNE	-->
+		<!-- SARNOR	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MAZOR_ALEXI" Language="en_US">
+			<Text>Mazor Alexi was the last High King of the Kingdom of Sarnor.  Mazor Alexi assembled a great army from up and down the Sarne and struck out east. In the tall grass between Sarnath and the ruins of Kasath, the Tall Men faced four khalasars, with a combined might of eighty thousand horselords, in a battle that would be known as the Field of Crows. The Sarnori chariots smashed through the center of the Dothraki horse, killing Khal Haro and causing his khalasar to retreat. Alexi and his mounted cavalry plunged in after them followed by the Sarnori foot but it was a trap... </Text>
+		</Row>
+		<Row Tag="LOC_MYSOIAF_GARRISON_BONUS_DISTRICTS_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength when occupying a district or Fort.</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_NAME_SARNATH" Language="en_US">
+			<Text>Sarnath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GORNATH" Language="en_US">
+			<Text>Gornath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HORNOTH" Language="en_US">
+			<Text>Hornoth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KASATH" Language="en_US">
+			<Text>Kasath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KYTH" Language="en_US">
+			<Text>Kyth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARDOSH" Language="en_US">
+			<Text>Mardosh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RATHYLAR" Language="en_US">
+			<Text>Rathylar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAATH" Language="en_US">
+			<Text>Saath</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SALLOSH" Language="en_US">
+			<Text>Sallosh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SARYS" Language="en_US">
+			<Text>Sarys</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SATHAR" Language="en_US">
+			<Text>Sathar</Text>
+		</Row>
+		<!-- END OF SARNOR	-->
+		<!-- BRANDON_STARK	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_BRANDON_STARK" Language="en_US">
+			<Text>Brandon Stark, also known as Brandon the Builder , was the legendary founder of House Stark who is said to have lived during the Age of Heroes. Scholars believe an ancient king's actions have been exaggerated into legend, or the reigns of multiple kings have been remembered as one through the passage of time.</Text>
+		</Row>
+		<!-- END OF  BRANDON_STARK  -->
+		<!-- LANN_CLEVER	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LANN_CLEVER" Language="en_US">
+			<Text>Lann the Clever is the legendary hero from the Age of Heroes that founded House Lannister.</Text>
+		</Row>
+		<!-- END OF  LANN_CLEVER  -->
+		<!-- GARTH_GREENHAND	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GARTH_GREENHAND" Language="en_US">
+			<Text>Garth Greenhand, also called Garth Greenhair and Garth the Green, was a mythical High King of the First Men and said to have been the common ancestor of numerous houses from the Reach. His firstborn son, Garth the Gardener, founded House Gardener, the Kings of the Reach. According to some legendes, Garth Greenhand was the High King who led the First Men across the Arm of Dorne. Other tales claim he predated the arrival of the First Men, making not only the first human in Westeros but also the only human, and that he interacted with the children of the forest and giants.</Text>
+		</Row>
+		<!-- END OF  GARTH_GREENHAND  -->
+		<!-- DURRAN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DURRAN" Language="en_US">
+			<Text>Durran, called Durran Godsgrief, was the mythic first Storm King and the founder of House Durrandon. Legend has that he was married to Elenei and was the builder of Storm's End. </Text>
+		</Row>
+		<!-- END OF  DURRAN  -->
+		<!-- GREY_KING	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GREY_KING" Language="en_US">
+			<Text>The Grey King is a legendary monarch of the Iron Islands who is said to have ruled for 1,007 years. All of the great houses of the islands claim descent from the Grey King, including House Greyjoy, with the exception of House Goodbrother, who claim descent from the Grey King's loyal eldest brother.</Text>
+		</Row>
+		<!-- END OF  GREY_KING  -->
+		<!-- ARTYS_ARRYN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ARTYS_ARRYN" Language="en_US">
+			<Text>Artys I Arryn was the first King of Mountain and Vale and the founder of House Arryn in Westeros. Prior to his coronation, Ser Artys, called the Falcon Knight, was an Andal knight who defeated the First Men of the Vale in the Battle of the Seven Stars. He is sometimes combined in tales with the Winged Knight, a legendary hero of the Vale from thousands of years before the Andal invasion.</Text>
+		</Row>
+		<!-- END OF  ARTYS_ARRYN  -->
+		<!-- LEAF	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LEAF" Language="en_US">
+			<Text>Leaf is one of the children of the forest in service to the last greenseer. Leaf was born in the time of the dragon and walked the world of men for two hundred years to watch, listen, and learn. She is the only one of the children in the cave of the three-eyed crow who speaks the Common Tongue of Westeros.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GODS_EYE" Language="en_US">
+			<Text>God's Eye</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIGH_HEART" Language="en_US">
+			<Text>High Heart</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAINWOOD" Language="en_US">
+			<Text>Rainwood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MISTYWOOD" Language="en_US">
+			<Text>Mistywood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHITEWOOD" Language="en_US">
+			<Text>Whitewood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KINGSWOOD" Language="en_US">
+			<Text>Kingswood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WOLFSWOOD" Language="en_US">
+			<Text>Wolfswood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LORN_POINT" Language="en_US">
+			<Text>Lorn Point</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAVA_THREEEYE_CROW" Language="en_US">
+			<Text>Cave of Three-eyed Crow</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SNAKEWOOD" Language="en_US">
+			<Text>Snakewood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IFEQUEVRON" Language="en_US">
+			<Text>Ifequevron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QOHOR_FOREST" Language="en_US">
+			<Text>Qohor Forest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THREEPENNYWOOD" Language="en_US">
+			<Text>Threepennywood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHISPERINGWOOD" Language="en_US">
+			<Text>Whisperingwood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WATS_WOOD" Language="en_US">
+			<Text>Wat's Wood</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THE_NECK" Language="en_US">
+			<Text>The Neck</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CRACKCLAW_POINT" Language="en_US">
+			<Text>Crackclaw Point</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STORROLDS_POINT" Language="en_US">
+			<Text>Storrold’s Point</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LONGLAKE" Language="en_US">
+			<Text>Longlake</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LAST_RIVER" Language="en_US">
+			<Text>Last River</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FOREST_OF_KAR" Language="en_US">
+			<Text>Forest of Kar</Text>
+		</Row>
+		<!-- END OF  LEAF  -->
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_VALYRIAN_DRAGONLORD"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_VALYRIAN_DRAGONLORD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GRAZDAN_THE_GREAT"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GRAZDAN_THE_GREAT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_NYMERIA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_NYMERIA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MAZOR_ALEXI"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MAZOR_ALEXI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_BRANDON_STARK"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_BRANDON_STARK"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_LANN_CLEVER"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_LANN_CLEVER"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GARTH_GREENHAND"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GARTH_GREENHAND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DURRAN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DURRAN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GREY_KING"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GREY_KING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ARTYS_ARRYN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ARTYS_ARRYN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_LEAF"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_LEAF"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
