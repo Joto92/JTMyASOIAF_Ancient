@@ -26,10 +26,6 @@
 			<m_ObjectName text="LEADER_GRAZDAN_THE_GREAT_BACKGROUND"/>
 		</Element>
 		<Element>
-			<m_EntryID text="LEADER_NYMERIA_NEUTRAL"/>
-			<m_ObjectName text="LEADER_NYMERIA_NEUTRAL"/>
-		</Element>
-		<Element>
 			<m_EntryID text="LEADER_NYMERIA_BACKGROUND"/>
 			<m_ObjectName text="LEADER_NYMERIA_BACKGROUND"/>
 		</Element>
@@ -96,6 +92,10 @@
 		<Element>
 			<m_EntryID text="LEADER_LEAF_BACKGROUND"/>
 			<m_ObjectName text="LEADER_LEAF_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_NYMERIA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_NYMERIA_NEUTRAL"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

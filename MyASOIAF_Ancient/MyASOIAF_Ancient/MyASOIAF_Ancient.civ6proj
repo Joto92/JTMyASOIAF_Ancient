@@ -18,7 +18,10 @@
           <File>MyASOIAF_Ancient_Civs.xml</File>
           <File>MyASOIAF_Ancient_Leaders.xml</File>
           <File>MyASOIAF_Ancient_Colors.xml</File>
-
+        </UpdateDatabase>
+        <UpdateDatabase id="UsingExpansion2">
+          <Criteria>Expansion2</Criteria>
+          <File>MyASOIAF_Ancient_Expansion2.xml</File>
         </UpdateDatabase>
         <UpdateText id="Text">
           <File>MyASOIAF_Ancient_ConfigText.xml</File>
@@ -56,7 +59,14 @@
     <AssociationData><![CDATA[<Associations>
   <Dependency type="Mod" title="JT: A Song of Ice And Fire " id="6e66a293-6a21-4650-bb3e-58d55c5fbcc1" />
 </Associations>]]></AssociationData>
-    <Authors>J. Torné</Authors>
+    <Authors>Joto92</Authors>
+    <ActionCriteriaData><![CDATA[
+      <ActionCriteria>
+        <Criteria id="Expansion2">
+          <GameCoreInUse>Expansion2</GameCoreInUse>
+        </Criteria>
+      </ActionCriteria>
+    ]]></ActionCriteriaData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -85,6 +95,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyASOIAF_Ancient_Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Ancient_Expansion2.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyASOIAF_Ancient_Icons.xml">

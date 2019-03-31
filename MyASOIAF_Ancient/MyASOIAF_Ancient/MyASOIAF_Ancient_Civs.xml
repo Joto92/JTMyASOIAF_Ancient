@@ -97,43 +97,35 @@
 		<!-- Implemented In Vanilla-->
 		<Row>
 			<TraitType>TRAIT_CIVILIZATION_ANCIENT_RHOYNAR</TraitType>
-			<ModifierId>TRAIT_FLOODPLAINS_VALID_HOLY_SITE</ModifierId>
-			<!-- Implemented In Vanilla-->
+			<ModifierId>TRAIT_MYASOIAF_FLOODPLAINS_VALID_HOLY_SITE</ModifierId>
 		</Row>
 		<Row>
 			<TraitType>TRAIT_CIVILIZATION_ANCIENT_RHOYNAR</TraitType>
-			<ModifierId>TRAIT_FLOODPLAINS_VALID_CAMPUS</ModifierId>
-			<!-- Implemented In Vanilla-->
+			<ModifierId>TRAIT_MYASOIAF_FLOODPLAINS_VALID_CAMPUS</ModifierId>
 		</Row>
 		<Row>
 			<TraitType>TRAIT_CIVILIZATION_ANCIENT_RHOYNAR</TraitType>
-			<ModifierId>TRAIT_FLOODPLAINS_VALID_ENCAMPMENT</ModifierId>
-			<!-- Implemented In Vanilla-->
+			<ModifierId>TRAIT_MYASOIAF_FLOODPLAINS_VALID_ENCAMPMENT</ModifierId>
 		</Row>
 		<Row>
 			<TraitType>TRAIT_CIVILIZATION_ANCIENT_RHOYNAR</TraitType>
-			<ModifierId>TRAIT_FLOODPLAINS_VALID_COMMERCIAL_HUB</ModifierId>
-			<!-- Implemented In Vanilla-->
+			<ModifierId>TRAIT_MYASOIAF_FLOODPLAINS_VALID_COMMERCIAL_HUB</ModifierId>
 		</Row>
 		<Row>
 			<TraitType>TRAIT_CIVILIZATION_ANCIENT_RHOYNAR</TraitType>
-			<ModifierId>TRAIT_FLOODPLAINS_VALID_ENTERTAINMENT_COMPLEX</ModifierId>
-			<!-- Implemented In Vanilla-->
+			<ModifierId>TRAIT_MYASOIAF_FLOODPLAINS_VALID_ENTERTAINMENT_COMPLEX</ModifierId>
 		</Row>
 		<Row>
 			<TraitType>TRAIT_CIVILIZATION_ANCIENT_RHOYNAR</TraitType>
-			<ModifierId>TRAIT_FLOODPLAINS_VALID_THEATER</ModifierId>
-			<!-- Implemented In Vanilla-->
+			<ModifierId>TRAIT_MYASOIAF_FLOODPLAINS_VALID_THEATER</ModifierId>
 		</Row>
 		<Row>
 			<TraitType>TRAIT_CIVILIZATION_ANCIENT_RHOYNAR</TraitType>
-			<ModifierId>TRAIT_FLOODPLAINS_VALID_INDUSTRIAL_ZONE</ModifierId>
-			<!-- Implemented In Vanilla-->
+			<ModifierId>TRAIT_MYASOIAF_FLOODPLAINS_VALID_INDUSTRIAL_ZONE</ModifierId>
 		</Row>
 		<Row>
 			<TraitType>TRAIT_CIVILIZATION_ANCIENT_RHOYNAR</TraitType>
-			<ModifierId>TRAIT_FLOODPLAINS_VALID_WONDER</ModifierId>
-			<!-- Implemented In Vanilla-->
+			<ModifierId>TRAIT_MYASOIAF_FLOODPLAINS_VALID_WONDER</ModifierId>
 		</Row>
 		<Row TraitType="TRAIT_CIVILIZATION_ANCIENT_RHOYNAR" ModifierId="MYSOIAF_TRAIT_INCREASED_FOOD_RIVERS"/>
 

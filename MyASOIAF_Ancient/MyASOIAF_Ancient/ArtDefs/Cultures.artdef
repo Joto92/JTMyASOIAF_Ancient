@@ -49,7 +49,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="AncientBrick"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -81,7 +81,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="Mediterranean"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -105,7 +105,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="Mughal"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>
 		<Element>
@@ -141,7 +141,7 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="Mediterranean"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
 				<m_Fields>
@@ -164,8 +164,8 @@
 					</m_Values>
 				</m_Fields>
 				<m_ChildCollections/>
-				<m_Name text="Mughal"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+				<m_Name text="MiddleEastern"/>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>
 	</m_RootCollections>

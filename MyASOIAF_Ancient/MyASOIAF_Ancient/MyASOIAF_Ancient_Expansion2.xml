@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<NamedVolcanoCivilizations>
+		<Row NamedVolcanoType="NAMED_VOLCANO_BALERION" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_VHAGAR" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_CARAXES" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_MERAXES" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_ARRAX" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_MELEYS" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_SHRYKOS" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_SYRAX" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_TYRAXES" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_VERMAX" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_TESSARION" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_VERMITHOR" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_TERRAX" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_URRAX" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedVolcanoType="NAMED_VOLCANO_MORGHUL" CivilizationType="CIVILIZATION_VALYRIA"/>
+	</NamedVolcanoCivilizations>
+
+	<NamedMountainCivilizations>
+		<Row NamedMountainType="NAMED_MOUNTAIN_OF_THE_MOON" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_NORTHERN_MOUNTAINS" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_FROSTGANGS" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_STORM_MOUNTAINS" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_RED_MOUNTAINS" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_FOURTEEN_FLAMES" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_PAINTED_MOUNTAINS" CivilizationType="CIVILIZATION_VALYRIA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_GHISCARI_MOUNTAINS" CivilizationType="CIVILIZATION_GHIS"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_KHYZAI_MOUNTAINS" CivilizationType="CIVILIZATION_GHIS"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_BONE_MOUNTAINS" CivilizationType="CIVILIZATION_GHIS"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_KRAZAAJ_ZASQA" CivilizationType="CIVILIZATION_GHIS"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRY_BONES" CivilizationType="CIVILIZATION_GHIS"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ANDALOS" CivilizationType="CIVILIZATION_RHOYNAR"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_OF_NORVOS" CivilizationType="CIVILIZATION_RHOYNAR"/>
+	</NamedMountainCivilizations>
+
+	<NamedDesertCivilizations>
+		<Row NamedDesertType="NAMED_DESERT_GHISCARI" CivilizationType="CIVILIZATION_GHIS"/>
+		<Row NamedDesertType="NAMED_DESERT_RED_WASTE" CivilizationType="CIVILIZATION_GHIS"/>
+	</NamedDesertCivilizations>
+
+	<NamedRiverCivilizations>
+		<Row NamedRiverType="NAMED_RIVER_RHOYNE" CivilizationType="CIVILIZATION_RHOYNAR"/>
+		<Row NamedRiverType="NAMED_RIVER_LHORULU" CivilizationType="CIVILIZATION_RHOYNAR"/>
+		<Row NamedRiverType="NAMED_RIVER_LITTLE_RHOYNE" CivilizationType="CIVILIZATION_RHOYNAR"/>
+		<Row NamedRiverType="NAMED_RIVER_NOYNE" CivilizationType="CIVILIZATION_RHOYNAR"/>
+		<Row NamedRiverType="NAMED_RIVER_QHOYNE" CivilizationType="CIVILIZATION_RHOYNAR"/>
+		<Row NamedRiverType="NAMED_RIVER_DARKWASH" CivilizationType="CIVILIZATION_RHOYNAR"/>
+		<Row NamedRiverType="NAMED_RIVER_SELHORU" CivilizationType="CIVILIZATION_RHOYNAR"/>
+		<Row NamedRiverType="NAMED_RIVER_UPPER_RHOYNE" CivilizationType="CIVILIZATION_RHOYNAR"/>
+		<Row NamedRiverType="NAMED_RIVER_VOLAENA" CivilizationType="CIVILIZATION_RHOYNAR"/>
+		<Row NamedRiverType="NAMED_RIVER_SKAHAZADHAN" CivilizationType="CIVILIZATION_GHIS"/>
+		<Row NamedRiverType="NAMED_RIVER_WORM" CivilizationType="CIVILIZATION_GHIS"/>
+		<Row NamedRiverType="NAMED_RIVER_SARNE" CivilizationType="CIVILIZATION_SARNOR"/>
+		<Row NamedRiverType="NAMED_RIVER_BLACKWATER_RUSH" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedRiverType="NAMED_RIVER_RED_FORK" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedRiverType="NAMED_RIVER_TUMBLESTONE" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedRiverType="NAMED_RIVER_BLUE_FORK" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedRiverType="NAMED_RIVER_GREEN_FORK" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedRiverType="NAMED_RIVER_WENDWATER" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedRiverType="NAMED_RIVER_WHITE_KNIFE" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedRiverType="NAMED_RIVER_LAST_RIVER" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+		<Row NamedRiverType="NAMED_RIVER_MILKWATER" CivilizationType="CIVILIZATION_CHILDREN_OF_FOREST"/>
+
+	</NamedRiverCivilizations>
+</GameData>
