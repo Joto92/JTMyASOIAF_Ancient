@@ -201,9 +201,6 @@
 		<Row Tag="LOC_CITY_NAME_WOLFSWOOD" Language="en_US">
 			<Text>Wolfswood</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_LORN_POINT" Language="en_US">
-			<Text>Lorn Point</Text>
-		</Row>
 		<Row Tag="LOC_CITY_NAME_CAVA_THREEEYE_CROW" Language="en_US">
 			<Text>Cave of Three-eyed Crow</Text>
 		</Row>
@@ -230,9 +227,6 @@
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CRACKCLAW_POINT" Language="en_US">
 			<Text>Crackclaw Point</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_STORROLDS_POINT" Language="en_US">
-			<Text>Storrold’s Point</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LONGLAKE" Language="en_US">
 			<Text>Longlake</Text>

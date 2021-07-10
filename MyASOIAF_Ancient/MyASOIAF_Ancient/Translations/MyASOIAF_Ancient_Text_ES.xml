@@ -85,9 +85,6 @@
 		<Replace Tag="LOC_CITY_NAME_WOLFSWOOD" Language="es_ES">
 			<Text>Wolfswood</Text>
 		</Replace>
-		<Replace Tag="LOC_CITY_NAME_LORN_POINT" Language="es_ES">
-			<Text>Lorn Point</Text>
-		</Replace>
 		<Replace Tag="LOC_CITY_NAME_CAVA_THREEEYE_CROW" Language="es_ES">
 			<Text>Cave of Three-yeed Crow</Text>
 		</Replace>
